@@ -1,7 +1,7 @@
 {
   "name": "GoogleDirectionAPI.Activities",
   "description": "Use Google location API to find  define activities for finding Distance , Duration and raw XML or JSON response.",
-  "main": "GetTrip_Distance_Duration.xaml",
+  "main": "GetTrip Distance And Duration.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "2.6.2",
     "UiPath.Mail.Activities": "1.5.1",
@@ -12,7 +12,7 @@
   "webServices": [],
   "schemaVersion": "4.0",
   "studioVersion": "19.7.0.0",
-  "projectVersion": "1.0.1",
+  "projectVersion": "1.0.2",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
